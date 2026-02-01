@@ -24,18 +24,15 @@ How to use:
 Just paste a Terabox link!</b>
 
 """
-    DEVELOPER = "👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ"
+    DEVELOPER = "📺 Channel"
     UPDATES_CHANNEL = "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ"
     SOURCE_CODE = "💬 ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ"
 
 class INLINE:
     START_BTN = InlineKeyboardMarkup(
         [
-            [InlineKeyboardButton(TEXT.DEVELOPER, url="https://t.me/pArAd0X6")],
-            [
-                InlineKeyboardButton(TEXT.UPDATES_CHANNEL, url="https://t.me/world_0f_parad0x"),
-                InlineKeyboardButton(TEXT.SOURCE_CODE, url="https://t.me/world_0f_parad0x"),
-            ],
+            [InlineKeyboardButton(TEXT.DEVELOPER, url="https://t.me/teradowndemo")],
+
         ]
     )
 
