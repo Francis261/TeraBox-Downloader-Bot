@@ -10,11 +10,18 @@ from datetime import datetime
 #  @MrMNTG @MusammilN
 class TEXT:
     START = """
-<b>ɪ'ᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʀᴀʙᴏx ᴅᴏᴡɴʟᴏᴀᴅᴇʀ!</b>
+<b>👋 Welcome to Terabox Downloader Bot!
 
-📥 ꜱᴇɴᴅ ᴍᴇ ᴛᴇʀᴀʙᴏx ʟɪɴᴋ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ.
-⚠️ ᴏɴʟʏ ᴠɪᴅᴇᴏꜱ ᴜɴᴅᴇʀ 𝟸ɢʙ ᴀʀᴇ ꜱᴜᴘᴘᴏʀᴛᴇᴅ.
-📢 ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ Jᴏɪɴ ᴏᴜʀ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ.
+Send me a Terabox file or folder link, and I'll:
+• Fetch file information
+• Provide download options
+• Stream videos directly in Telegram
+
+Supported formats:
+Videos, Documents, Images, Archives
+
+How to use:
+Just paste a Terabox link!</b>
 
 """
     DEVELOPER = "👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ"
